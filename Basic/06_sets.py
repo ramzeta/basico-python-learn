@@ -1,4 +1,4 @@
-# Clase en vídeo: https://youtu.be/Kp4Mvapo5kc?t=16335
+?t=16335
 
 ### Sets ###
 

@@ -1,4 +1,4 @@
-# Clase en vídeo: https://youtu.be/Kp4Mvapo5kc?t=29327
+?t=29327
 
 ### Classes ###
 

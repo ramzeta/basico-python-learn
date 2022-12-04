@@ -1,4 +1,4 @@
-# Clase en vídeo: https://youtu.be/Kp4Mvapo5kc?t=21442
+?t=21442
 
 ### Conditionals ###
 
