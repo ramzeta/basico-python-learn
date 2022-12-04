@@ -1,4 +1,3 @@
-?t=32030
 
 ### Exception Handling ###
 

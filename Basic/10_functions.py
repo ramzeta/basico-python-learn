@@ -1,4 +1,3 @@
-?t=26619
 
 ### Functions ###
 
@@ -55,7 +54,7 @@ def print_name_with_default(name, surname, alias="Sin alias"):
 
 
 print_name_with_default("Brais", "Moure")
-print_name_with_default("Brais", "Moure", "MoureDev")
+print_name_with_default("Brais", "Moure", "ramzeta")
 
 # Función con parámetros de entrada/argumentos arbitrarios
 
@@ -66,5 +65,5 @@ def print_upper_texts(*texts):
         print(text.upper())
 
 
-print_upper_texts("Hola", "Python", "MoureDev")
+print_upper_texts("Hola", "Python", "ramzeta")
 print_upper_texts("Hola")

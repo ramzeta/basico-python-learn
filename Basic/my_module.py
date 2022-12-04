@@ -1,4 +1,3 @@
-?t=34583
 
 ### Módulo para pruebas ###
 

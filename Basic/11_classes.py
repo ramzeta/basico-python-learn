@@ -1,4 +1,4 @@
-?t=29327
+
 
 ### Classes ###
 
@@ -31,7 +31,7 @@ print(my_person.full_name)
 print(my_person.get_name())
 my_person.walk()
 
-my_other_person = Person("Brais", "Moure", "MoureDev")
+my_other_person = Person("Brais", "Moure", "ramzeta")
 print(my_other_person.full_name)
 my_other_person.walk()
 my_other_person.full_name = "Héctor de León (El loco de los perros)"

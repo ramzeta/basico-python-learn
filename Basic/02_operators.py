@@ -1,4 +1,3 @@
-?t=5665
 
 ### Operadores Aritméticos ###
 

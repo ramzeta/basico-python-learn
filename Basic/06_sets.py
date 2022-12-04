@@ -1,4 +1,3 @@
-?t=16335
 
 ### Sets ###
 
@@ -17,11 +16,11 @@ print(len(my_other_set))
 
 # Inserción
 
-my_other_set.add("MoureDev")
+my_other_set.add("ramzeta")
 
 print(my_other_set)  # Un set no es una estructura ordenada
 
-my_other_set.add("MoureDev")  # Un set no admite repetidos
+my_other_set.add("ramzeta")  # Un set no admite repetidos
 
 print(my_other_set)
 

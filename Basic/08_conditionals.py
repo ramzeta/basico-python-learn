@@ -1,5 +1,3 @@
-?t=21442
-
 ### Conditionals ###
 
 # if
