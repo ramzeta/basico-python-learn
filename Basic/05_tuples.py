@@ -25,6 +25,9 @@ print(my_tuple.index("Moure"))
 print(my_tuple.index("Brais"))
 
 # my_tuple[1] = 1.80 'tuple' object does not support item assignment
+# my_tuple[5] = 1.80 'tuple' object does not support item assignment
+
+# Una tupla es inmutable
 
 # Concatenación
 
