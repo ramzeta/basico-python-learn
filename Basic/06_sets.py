@@ -9,7 +9,7 @@ my_other_set = {}
 print(type(my_set))
 print(type(my_other_set))  # Inicialmente es un diccionario
 
-my_other_set = {"Brais", "Moure", 35}
+my_other_set = {"Brais", "ramzeta", 35}
 print(type(my_other_set))
 
 print(len(my_other_set))
@@ -26,12 +26,12 @@ print(my_other_set)
 
 # Búsqueda
 
-print("Moure" in my_other_set)
+print("ramzeta" in my_other_set)
 print("Mouri" in my_other_set)
 
 # Eliminación
 
-my_other_set.remove("Moure")
+my_other_set.remove("ramzeta")
 print(my_other_set)
 
 my_other_set.clear()
@@ -42,7 +42,7 @@ del my_other_set
 
 # Transformación
 
-my_set = {"Brais", "Moure", 35}
+my_set = {"Brais", "ramzeta", 35}
 my_list = list(my_set)
 print(my_list)
 print(my_list[0])

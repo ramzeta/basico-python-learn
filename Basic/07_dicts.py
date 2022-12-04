@@ -11,11 +11,11 @@ print(type(my_dict))
 print(type(my_other_dict))
 
 my_other_dict = {"Nombre": "Brais",
-                 "Apellido": "Moure", "Edad": 35, 1: "Python"}
+                 "Apellido": "ramzeta", "Edad": 35, 1: "Python"}
 
 my_dict = {
     "Nombre": "Brais",
-    "Apellido": "Moure",
+    "Apellido": "ramzeta",
     "Edad": 35,
     "Lenguajes": {"Python", "Swift", "Kotlin"},
     1: 1.77
@@ -32,7 +32,7 @@ print(len(my_dict))
 print(my_dict[1])
 print(my_dict["Nombre"])
 
-print("Moure" in my_dict)
+print("ramzeta" in my_dict)
 print("Apellido" in my_dict)
 
 # Inserción

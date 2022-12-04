@@ -26,12 +26,12 @@ class Person:
         print(f"{self.full_name} está caminando")
 
 
-my_person = Person("Brais", "Moure")
+my_person = Person("Brais", "ramzeta")
 print(my_person.full_name)
 print(my_person.get_name())
 my_person.walk()
 
-my_other_person = Person("Brais", "Moure", "ramzeta")
+my_other_person = Person("Brais", "ramzeta", "ramzeta")
 print(my_other_person.full_name)
 my_other_person.walk()
 my_other_person.full_name = "Héctor de León (El loco de los perros)"

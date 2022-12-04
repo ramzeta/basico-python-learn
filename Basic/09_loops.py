@@ -30,17 +30,17 @@ my_list = [35, 24, 62, 52, 30, 30, 17]
 for element in my_list:
     print(element)
 
-my_tuple = (35, 1.77, "Brais", "Moure", "Brais")
+my_tuple = (35, 1.77, "Brais", "ramzeta", "Brais")
 
 for element in my_tuple:
     print(element)
 
-my_set = {"Brais", "Moure", 35}
+my_set = {"Brais", "ramzeta", 35}
 
 for element in my_set:
     print(element)
 
-my_dict = {"Nombre": "Brais", "Apellido": "Moure", "Edad": 35, 1: "Python"}
+my_dict = {"Nombre": "Brais", "Apellido": "ramzeta", "Edad": 35, 1: "Python"}
 
 for element in my_dict:
     print(element)

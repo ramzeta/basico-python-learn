@@ -7,7 +7,7 @@
 my_tuple = tuple()
 my_other_tuple = ()
 
-my_tuple = (35, 1.77, "Brais", "Moure", "Brais")
+my_tuple = (35, 1.77, "Brais", "ramzeta", "Brais")
 my_other_tuple = (35, 60, 30)
 
 print(my_tuple)
@@ -21,7 +21,7 @@ print(my_tuple[-1])
 # print(my_tuple[-6]) IndexError
 
 print(my_tuple.count("Brais"))
-print(my_tuple.index("Moure"))
+print(my_tuple.index("ramzeta"))
 print(my_tuple.index("Brais"))
 
 # my_tuple[1] = 1.80 'tuple' object does not support item assignment
