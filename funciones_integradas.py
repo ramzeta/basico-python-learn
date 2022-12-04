@@ -6,17 +6,17 @@ n = bin(10)
 n = hex(10)
 n = int("0b1010",2)
 n = int("0xa",16)
-print("fundiones = ",n)
+print("funciones = ",n)
 
 #VALOR ABSOLUTO
 n=abs(-343)
-print("fundiones = ",n)
+print("funciones = ",n)
 
 #Caracteres
 n = len("Ramiro")
 
 #Si quieres ver que hace la funcion ponla la ultima
-print("fundiones = ",n)
+print("funciones = ",n)
 
 
 #iter
@@ -35,3 +35,4 @@ print("iterator",iterador.__next__())
 pilou
 image to html
 """
+
