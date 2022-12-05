@@ -11,6 +11,7 @@
 import pandas
 from mypackage import arithmetics
 import requests
+import pandas
 import numpy
 
 print(numpy.version.version)
